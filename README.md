@@ -5,6 +5,9 @@ Using Rest API with the BLoC pattern in Flutter
 ## Diagram
 ![](https://github.com/ahm3tcelik/flutter_restapi_bloc/blob/master/diagram.png)
 
+## Screenshots
+<img src="https://github.com/ahm3tcelik/flutter_restapi_bloc/blob/master/ss_1.png" width="250"> <img src="https://github.com/ahm3tcelik/flutter_restapi_bloc/blob/master/ss_2.png" width="250">
+
 ## Project Structure
 ```text   
  ├── lib
